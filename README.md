@@ -7,7 +7,7 @@ Customisable MLP parameters:
 - Number of ouputs
 - Number of hidden layers
 - Number of neurons in each layer
-- Activation Functions(sigmoid, tanh, Relu, softmax)
+- Activation Functions (sigmoid, tanh, Relu, softmax)
 - Number of traning epoch
 - Learning rate
 
